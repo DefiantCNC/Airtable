@@ -1,0 +1,62 @@
+"<div style='display: flex; flex-flow: row wrap; align-items: flex-start; justify-content: flex-start;  padding: 0; margin: 0;'>
+  <div style='width: 500px;height: 100%;'>
+    <h2 style='min-height: 20px;font-size: 1.4rem; line-height: 1.4rem; color: rgb(124, 86, 189);text-decoration: underline;'>Location Information</h2>
+    <ul style='list-style: none; padding: 0; margin: 0;'>
+      <li style='font-size: 14px; line-height: 1.8;'> Address: 20 South 3rd St</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Apt #: 1</li>
+      <li style='font-size: 14px; line-height: 1.8;'> City: Philadelphia</li>
+      <li style='font-size: 14px; line-height: 1.8;'> State: PA</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Zoning: Test Zoning</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Is It Furnished: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Which Internet Infrastructure exists?: None </li>
+      <li style='font-size: 14px; line-height: 1.8;'> Apartment Maintenance Excellent</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Noise Level in Apartment: Quiet</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Noise Level in Area: Quiet</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Public Transportation Access: OK</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Attraction Access: OK</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Building Occupied Mostly By: Residential</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Area Vibe: Excellent</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Building Entrance and Street: Excellent</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Picture Accuracy: OK</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Building Entrance Method: Intercom</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Can we put Keycafe if needed?: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Where is the trash located?: Outside</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Describe how to reach the apartment: Front Door</li>
+      <li style='font-size: 14px; line-height: 1.8;'> General notes: General Notes area</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Origination notes to Marketing: Origination notes to marketing area</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Origination notes to Activation: Origination notes to activation area</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Number of apartments on a floor: 8</li>
+    </ul>
+  </div>
+  <div class='width: 500px;height: 100%;'>
+    <h2 style='min-height: 20px; font-size: 1.4rem; line-height: 1.4rem; color: rgb(124, 86, 189);text-decoration: underline;'></h2>
+    <ul style='list-style: none; padding: 0; margin: 0;'>
+      <li style='font-size: 14px; line-height: 1.8;'> A/C in ALL rooms?: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Hot Water Operation: Electric</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Number of Elevators: 2</li>
+      <li style='font-size: 14px; line-height: 1.8;'> View from Living Room: OK</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Apartment Vibe: Excellent</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Blinds or Curtains: Partially</li>
+      <li style='font-size: 14px; line-height: 1.8;'> # of Bedrooms: 1</li>
+      <li style='font-size: 14px; line-height: 1.8;'> # of Bathrooms: 2.5</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Part of VG Complex: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Area Type: 🏝 Tourist</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Additional Areas: Balcony</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Bathroom Type: 🚿 Shower</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Floors in the Building: 4</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Building Maintenance: Excellent</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Apartment floor type: Parquet</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Heating Type: Central</li>
+      <li style='font-size: 14px; line-height: 1.8;'> A/C Type: Central</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Washer/Dryer: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Communal Area: No</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Parking Available: Free Street</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Gym: No</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Pool: No</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Pet Friendly: No</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Handicap Access: Yes</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Owner Legal Name (on Lease): Jeremy Taylor</li>
+      <li style='font-size: 14px; line-height: 1.8;'> Management Company: Joseph</li>
+    </ul>
+  </div>
+</div>"
